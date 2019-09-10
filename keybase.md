@@ -1,3 +1,75 @@
+
+### Keybase proof
+
+I hereby claim:
+
+  * I am virbarter on github.
+  * I am virbarter (https://keybase.io/virbarter) on keybase.
+  * I have a public key ASCq0Tf2Cu1hOCMPKp5I7Q06xN4UG_AO9EuKq1giV2BGZgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120aad137f60aed6138230f2a9e48ed0d3ac4de141bf00ef44b8aab5822576046660a",
+      "host": "keybase.io",
+      "kid": "0120aad137f60aed6138230f2a9e48ed0d3ac4de141bf00ef44b8aab5822576046660a",
+      "uid": "498d55a3f1d9ec8bd6e066ba06eb6f19",
+      "username": "virbarter"
+    },
+    "merkle_root": {
+      "ctime": 1568159508,
+      "hash": "1e40f5b5b38546a6b3130021c41600854437f1be967134c7cd3e5b1445edade20288db25e5884398be5443fbeedcdd559a51706493a8a4b39c3d43592229770d",
+      "hash_meta": "562936943dc5311c6d62c9f6acb61631ee3e28fff3cb25ee1d5472363be94d01",
+      "seqno": 6541278
+    },
+    "service": {
+      "entropy": "WPGmyaAZ2D+S7RscyXmgVfaa",
+      "name": "github",
+      "username": "virbarter"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568159521,
+  "expire_in": 504576000,
+  "prev": "19e0818d90ea943d1d45b8c54c11e0fb999cf81faa09361e054ed079a9dac4e8",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASCq0Tf2Cu1hOCMPKp5I7Q06xN4UG_AO9EuKq1giV2BGZgo](https://keybase.io/virbarter), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqtE39grtYTgjDyqeSO0NOsTeFBvwDvRLiqtYIldgRmYKp3BheWxvYWTESpcCCcQgGeCBjZDqlD0dRbjFTBHg+5mc+B+qCTYeBU7QeanaxOjEICqdcgXRFaNofO+kwgUd24AKKrM0KcKoU02g4aeKVCeKAgHCo3NpZ8RAS5jRqiXfVjfF2uBLnF5hEQiKIbYDI2qV8bbd//Xs0qcnbaoYThhT5yY2b7qytx70B7ur2KlG2CZecgOV2TdBDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKDMiWIc2+oR3IXEiRSv8wsSl2PZIcTla9HpASU0aH/Xo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/virbarter
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id virbarter
+```
+
+
+
+
 ### Keybase proof
 
 I hereby claim:
